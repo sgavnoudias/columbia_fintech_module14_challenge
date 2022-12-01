@@ -1,4 +1,4 @@
-##### Columbia Fintech Bootcamp: Module #14 Challenge
+# Columbia Fintech Bootcamp: Module #14 Challenge
 
 ---
 
